@@ -1,6 +1,6 @@
-# 📊 Samsung Sales Analysis Dashboard (Power BI)
+#  Mobile Phone Sales Analysis Dashboard (Power BI)
 
-This project showcases a **Sales Analysis Dashboard** built using **Power BI** for **Samsung** mobile devices. The dashboard is an interactive business intelligence tool designed to visualize sales performance, customer behavior, and product demand across various dimensions such as brand, model, city, month, and payment method.
+This project showcases a **Sales Analysis Dashboard** built using **Power BI** for **all ** the mobile devices. The dashboard is an interactive business intelligence tool designed to visualize sales performance, customer behavior, and product demand across various dimensions such as brand, model, city, month, and payment method.
 
 ---
 
