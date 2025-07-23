@@ -144,21 +144,8 @@ These KPIs provide a quick snapshot of business performance.
 
 ---
 
-## 📁 Repository Structure
 
-```bash
-.
-├── README.md              # Dashboard description and documentation
-├── Samsung_Sales.pbix     # Power BI Dashboard file
-└── assets/
-    └── dashboard_preview.png  # Screenshot of the dashboard (optional)
-```
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](assets/dashboard_preview.png)
 
 ---
 
@@ -171,6 +158,6 @@ Open to suggestions, ideas, and pull requests. If you find this useful or want t
 ## 📧 Contact
 
 If you have questions or would like to discuss potential collaboration:
-- **Name:** [Your Name]
-- **Email:** [your_email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **Name:** Deepanshu Khanna  
+- **Email:** deepanshukhanna2003@gmail.com
+
